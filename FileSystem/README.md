@@ -142,5 +142,5 @@
          2. 重名判断就是遍历该目录下的所有文件或者子目录看有没有重名的。
          3. 非法字符通过函数```judgeName``` 
 3. 实验结果展示
-   ![](photo/file1.png) 
-   ![](photo/file2.png)
+   <img src="../photo/file1.png>
+   <img src= "../photo/file2.png>
